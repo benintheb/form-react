@@ -2,4 +2,4 @@
 
 - image upload not implemented
 - sizing unfit
-- divs and its items not inline
+- divs and it's items not inline
